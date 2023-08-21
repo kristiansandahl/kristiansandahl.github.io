@@ -19,10 +19,10 @@ navbar:
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto: "test@email.nu""                   # CHANGE HERE 
+      href: mailto:test@email.nu                  # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/kristiansandahl.html       # CHANGE HERE 
+      href: https://github.com/kristiansandahl       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
